@@ -1,4 +1,4 @@
-package com.cristianrita.springgraphqldemo.actor;
+package com.example.springgraphqldemo.actor;
 
 import org.springframework.graphql.data.method.annotation.Argument;
 import org.springframework.graphql.data.method.annotation.QueryMapping;

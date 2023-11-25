@@ -1,7 +1,7 @@
-package com.cristianrita.springgraphqldemo;
+package com.example.springgraphqldemo;
 
-import com.cristianrita.springgraphqldemo.actor.Actor;
-import com.cristianrita.springgraphqldemo.actor.ActorController;
+import com.example.springgraphqldemo.actor.Actor;
+import com.example.springgraphqldemo.actor.ActorController;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

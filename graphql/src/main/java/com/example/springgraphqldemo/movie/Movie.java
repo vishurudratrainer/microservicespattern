@@ -1,4 +1,4 @@
-package com.cristianrita.springgraphqldemo.movie;
+package com.example.springgraphqldemo.movie;
 
 import java.util.List;
 

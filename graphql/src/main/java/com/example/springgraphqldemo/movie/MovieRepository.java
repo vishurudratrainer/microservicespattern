@@ -1,4 +1,4 @@
-package com.cristianrita.springgraphqldemo.movie;
+package com.example.springgraphqldemo.movie;
 
 import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Repository;

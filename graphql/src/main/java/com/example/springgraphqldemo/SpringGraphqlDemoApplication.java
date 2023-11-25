@@ -1,4 +1,4 @@
-package com.cristianrita.springgraphqldemo;
+package com.example.springgraphqldemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,6 +1,6 @@
-package com.cristianrita.springgraphqldemo.actor;
+package com.example.springgraphqldemo.actor;
 
-import com.cristianrita.springgraphqldemo.movie.Movie;
+import com.example.springgraphqldemo.movie.Movie;
 
 import java.util.List;
 
