@@ -1,0 +1,8 @@
+Media type versioning (a.k.a “content negotiation” or “accept header”)
+GitHub
+(Custom) Headers versioning
+Microsoft
+URI Versioning
+Twitter
+Request Parameter versioning
+Amazon
