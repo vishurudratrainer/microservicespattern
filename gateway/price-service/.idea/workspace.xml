@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c340f745-f945-44af-9027-235e0ba81ae6" name="Changes" comment="" />
+    <list default="true" id="c340f745-f945-44af-9027-235e0ba81ae6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../demo-web-rest-swagger/src/main/java/com/example/demowebrestswagger/controller/NameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-web-rest-swagger/src/main/java/com/example/demowebrestswagger/model/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/.idea/spring-boot-with-wiremock-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/spring-boot-with-wiremock-main/src/main/java/com/wiremock/example/springbootwiremock/WireMockConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/spring-boot-with-wiremock-main/src/main/java/com/wiremock/example/springbootwiremock/WireMockProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../distributedtracing/.idea/distributedtracing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../distributedtracing/ms1/ms1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../distributedtracing/ms2/ms2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../distributedtracing/ms3/ms3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/calculator/src/main/java/com/example/calculator/controller/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/calculator/src/main/java/com/example/calculator/service/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/calculator/src/main/java/com/example/calculator/service/impl/CalculatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aggregate-pattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aggregate-pattern/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customendpoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../customendpoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-custom-endpoint/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-custom-endpoint/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-versioning/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-versioning/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/spring-boot-with-wiremock-main/src/test/java/com/wiremock/example/springbootwiremock/SpringBootWiremockApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/spring-boot-with-wiremock-main/src/test/java/com/wiremock/example/springbootwiremock/SpringBootWiremockApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../distributedtracing/ms3/src/main/java/com/ms1/controller/SleuthTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../distributedtracing/ms3/src/main/java/com/ms1/controller/SleuthTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/controller/TutorialController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/controller/TutorialController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jwt/src/main/java/com/training/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-jwt/src/main/java/com/training/controller/HelloWorldController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +42,14 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2BW8QSV6t5nMZkDncpDWFJnoH9w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

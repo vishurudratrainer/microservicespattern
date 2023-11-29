@@ -4,16 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0830fb82-736e-48ec-95f8-30e0eb14dcac" name="Changes" comment="" />
+    <list default="true" id="0830fb82-736e-48ec-95f8-30e0eb14dcac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../demo-web-rest-swagger/src/main/java/com/example/demowebrestswagger/controller/NameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-web-rest-swagger/src/main/java/com/example/demowebrestswagger/model/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/.idea/spring-boot-with-wiremock-main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/spring-boot-with-wiremock-main/src/main/java/com/wiremock/example/springbootwiremock/WireMockConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/spring-boot-with-wiremock-main/src/main/java/com/wiremock/example/springbootwiremock/WireMockProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../discovery-server/spring-eureka-client-student-service/src/main/java/com/example/springeurekaclientstudentservice/SpringEurekaClientStudentServiceApplication1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../distributedtracing/.idea/distributedtracing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../distributedtracing/ms1/ms1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../distributedtracing/ms2/ms2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../distributedtracing/ms3/ms3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gateway/instrument-service/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gateway/instrument-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gateway/price-service/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../gateway/price-service/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/.idea/$PROJECT_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/calculator/src/main/java/com/example/calculator/controller/CalculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/calculator/src/main/java/com/example/calculator/service/CalculatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/calculator/src/main/java/com/example/calculator/service/impl/CalculatorServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ms/shop/src/main/java/com/example/shop/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/controller/BookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Aggregate-pattern/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Aggregate-pattern/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../customendpoint/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../customendpoint/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-custom-endpoint/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-custom-endpoint/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-versioning/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-versioning/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/spring-boot-with-wiremock-main/src/test/java/com/wiremock/example/springbootwiremock/SpringBootWiremockApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../demo-wiremock-spring/spring-boot-with-wiremock-main/spring-boot-with-wiremock-main/src/test/java/com/wiremock/example/springbootwiremock/SpringBootWiremockApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../discovery-server/spring-eureka-client-school-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../discovery-server/spring-eureka-client-school-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../discovery-server/spring-eureka-client-student-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../discovery-server/spring-eureka-client-student-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../distributedtracing/ms3/src/main/java/com/ms1/controller/SleuthTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../distributedtracing/ms3/src/main/java/com/ms1/controller/SleuthTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/gateway-service/gateway-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../gateway/gateway-service/gateway-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/instrument-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gateway/instrument-service/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/price-service/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gateway/price-service/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../gateway/price-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../gateway/price-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/controller/TutorialController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-jpa-paging-sorting-master/src/main/java/com/example/spring/data/jpa/pagingsorting/controller/TutorialController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-jwt/src/main/java/com/training/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-jwt/src/main/java/com/training/controller/HelloWorldController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2YWN8NbQpqVTHIIPkWEXzJDgiWU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />

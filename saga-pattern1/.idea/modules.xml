@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ordermicroservice-master/microservice.iml" filepath="$PROJECT_DIR$/ordermicroservice-master/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventorymicroservice-master/microservice (1) (com.inventory).iml" filepath="$PROJECT_DIR$/inventorymicroservice-master/microservice (1) (com.inventory).iml" />
+      <module fileurl="file://$PROJECT_DIR$/paymentsmicroservice-master/microservice (1) (com.payment).iml" filepath="$PROJECT_DIR$/paymentsmicroservice-master/microservice (1) (com.payment).iml" />
+      <module fileurl="file://$PROJECT_DIR$/shipmentmicroservice-master/microservice (1) (com.shipment).iml" filepath="$PROJECT_DIR$/shipmentmicroservice-master/microservice (1) (com.shipment).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/saga-pattern1.iml" filepath="$PROJECT_DIR$/.idea/saga-pattern1.iml" />
+    </modules>
+  </component>
+</project>

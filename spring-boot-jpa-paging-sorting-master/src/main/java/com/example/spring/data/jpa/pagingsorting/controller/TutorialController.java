@@ -47,7 +47,8 @@ public class TutorialController {
   }
 
   @GetMapping("/sortedtutorials")
-  public ResponseEntity<List<Tutorial>> getAllTutorials(@RequestParam(defaultValue = "id,desc") String[] sort) {
+  public ResponseEntity<List<Tutorial>> getAllTutorials
+          (@RequestParam(defaultValue = "id,desc") String[] sort) {
 
     try {
       List<Order> orders = new ArrayList<Order>();
@@ -76,7 +77,7 @@ public class TutorialController {
     }
   }
 
-  @GetMapping("/tutorials")
+  @GetMapping("/tutorials1")
   public ResponseEntity<Map<String, Object>> getAllTutorialsPage(
       @RequestParam(required = false) String title,
       @RequestParam(defaultValue = "0") int page,

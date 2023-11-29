@@ -32,6 +32,8 @@ public class HelloWorldController {
 			String token = header.get("authorization");
 			token =token.replaceAll("Bearer ","");
 			System.out.println(jwtTokenUtil.getAllClaimsFromToken(token));
+		}else{
+			return "Failure";
 		}
 
 		return "Hello World";

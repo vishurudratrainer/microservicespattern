@@ -16,7 +16,7 @@ eureka:
 spring:
   application:
     name: school-service
-
+debug: true
 logging:
   level:
     com.example: DEBUG

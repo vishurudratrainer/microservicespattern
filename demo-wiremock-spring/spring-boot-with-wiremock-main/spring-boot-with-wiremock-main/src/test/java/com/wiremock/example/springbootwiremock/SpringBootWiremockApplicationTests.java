@@ -9,8 +9,7 @@ import com.github.tomakehurst.wiremock.core.WireMockConfiguration;
 import com.github.tomakehurst.wiremock.matching.RequestPatternBuilder;
 import com.github.tomakehurst.wiremock.recording.RecordSpec;
 import com.github.tomakehurst.wiremock.recording.RecordingStatus;
-import com.wiremock.example.springbootwiremock.config.WireMockConfig;
-import com.wiremock.example.springbootwiremock.config.WireMockProxy;
+
 import io.vavr.control.Try;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.AfterEach;

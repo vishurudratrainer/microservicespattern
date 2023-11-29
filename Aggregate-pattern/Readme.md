@@ -1,5 +1,8 @@
 Internal Details
-The Aggregator pattern can add an extra layer for request/response management, enabling optimizations like response caching, parallel calls, and more. It also decouples consumers from the details of internal microservices, making the architecture more flexible.
+The Aggregator pattern can add an extra layer for request/response management,
+enabling optimizations like response caching, parallel calls, and more. 
+It also decouples consumers from the details of internal microservices, 
+making the architecture more flexible.
 
 Best Practices, Dos and Don'ts, Optimization Strategies
 Caching: Cache common queries in the aggregator.

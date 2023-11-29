@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eca9c5b-3806-4bc3-bf5c-81896daba069" name="Changes" comment="" />
+    <list default="true" id="7eca9c5b-3806-4bc3-bf5c-81896daba069" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../demo-web-rest-swagger/src/main/java/com/example/demowebrestswagger/controller/NameController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-web-rest-swagger/src/main/java/com/example/demowebrestswagger/model/Name.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo-versioning/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo-versioning/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
