@@ -10,3 +10,5 @@ resilience4j.timelimiter:
 rating:
   service:
     endpoint: http://localhost:7070/ratings/
+
+debug: true

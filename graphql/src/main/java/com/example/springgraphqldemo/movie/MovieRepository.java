@@ -26,6 +26,8 @@ public class MovieRepository {
     }
 
     public void addMovie(Movie movie) {
+
+        System.out.println("Movie==="+movie);
         mockMovies.add(movie);
     }
 }

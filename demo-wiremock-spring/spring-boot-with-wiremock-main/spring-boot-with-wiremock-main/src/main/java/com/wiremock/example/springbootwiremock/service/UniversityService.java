@@ -1,6 +1,6 @@
 package com.wiremock.example.springbootwiremock.service;
 
-import com.wiremock.example.springbootwiremock.vo.UniversityDTO;
+import  com.wiremock.example.springbootwiremock.vo.UniversityDTO;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.ParameterizedTypeReference;

@@ -1,0 +1,17 @@
+mutation {
+  updateBook(id: 1, title: "GraphQL Overview Revised Edition") {
+    id
+    title
+    pages
+    author {
+      name
+    }
+  }
+}
+
+
+{
+  movieById(id: 1) {
+    id
+  }
+}
