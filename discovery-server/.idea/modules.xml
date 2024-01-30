@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/discovery-server.iml" filepath="$PROJECT_DIR$/.idea/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eureka-client-school-service/spring-eureka-client-school-service.iml" filepath="$PROJECT_DIR$/spring-eureka-client-school-service/spring-eureka-client-school-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eureka-client-student-service/spring-eureka-client-student-service.iml" filepath="$PROJECT_DIR$/spring-eureka-client-student-service/spring-eureka-client-student-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eureka-server/spring-eureka-server.iml" filepath="$PROJECT_DIR$/spring-eureka-server/spring-eureka-server.iml" />
     </modules>
   </component>
 </project>
