@@ -11,8 +11,9 @@ import org.slf4j.Logger;
 public class SleuthTestController {
 
     Logger logger = LoggerFactory.getLogger("sleuth2");
-
-    private RestTemplate restTemplate = new RestTemplate();
+    @Autowired
+    private RestTemplate restTemplate;
+    //= new RestTemplate();
 
     @GetMapping("/sleuth2")
     public String sleuth1() {

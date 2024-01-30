@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/eventsourcing.iml" filepath="$PROJECT_DIR$/.idea/eventsourcing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stockmanagement_eventstore-master/stockmanagement_eventstore.iml" filepath="$PROJECT_DIR$/stockmanagement_eventstore-master/stockmanagement_eventstore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stockmanagement_traditional-master/stockmanagement_traditional.iml" filepath="$PROJECT_DIR$/stockmanagement_traditional-master/stockmanagement_traditional.iml" />
+    </modules>
+  </component>
+</project>
